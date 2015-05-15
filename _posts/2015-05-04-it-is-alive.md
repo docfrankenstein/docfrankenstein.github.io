@@ -1,3 +1,6 @@
-# It's Alive!
+---
+layout: post
+title: It's Alive!
+---
 
-## Frankenstein has woken.
+# Frankenstein has woken.
